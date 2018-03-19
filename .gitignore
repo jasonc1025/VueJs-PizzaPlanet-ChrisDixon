@@ -1,6 +1,6 @@
 .DS_Store
 node_modules/
-dist/
+#[jwc] stub out to allow build on github: dist/
 npm-debug.log
 yarn-error.log
 
